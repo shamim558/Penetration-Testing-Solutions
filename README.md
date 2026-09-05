@@ -34,7 +34,7 @@ In today's interconnected digital landscape, passive security is no longer enoug
 
 To learn more or integrate penetration testing into your development lifecycle (DevSecOps):
 
-1. **Visit:** [www.cyberguard.com](https://www.cyberguard.com)
+1. **Visit:** https://www.fiverr.com/s/d0pXz6z
 2. **Contact:** Reach out to our security engineering team for a consultation.
 3. **Stay Secure:** Follow best practices for continuous security monitoring.
 
